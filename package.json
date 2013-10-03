@@ -1,0 +1,29 @@
+{
+  "name": "spooch-db-driver",
+  "version": "0.0.1",
+  "description": "database driver from NoSQL Spooch database server",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YaroslavGaponov/spooch-db-driver.git"
+  },
+  "keywords": [
+    "nosql",
+    "storage",
+    "drive",
+    "file"
+  ],
+  "author": "Yaroslav Gaponov",
+  "license": "BSD",
+  "readmeFilename": "readme.md",
+  "gitHead": "177b4c65b92663e2a61e84e9a92b0903ce71f7aa",
+  "bugs": {
+    "url": "https://github.com/YaroslavGaponov/spooch-db-driver/issues"
+  }
+}
